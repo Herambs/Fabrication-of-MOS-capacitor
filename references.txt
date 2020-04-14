@@ -1,0 +1,5 @@
+1- https://www.slideshare.net/jayrbaxi/seminar-   fabrication-and-characteristics-of-cmos
+(mos capacitor operation accumulation mode)
+
+2- https://www.researchgate.net/post/Can_you_please_elaborate_the_meaning_of_three_different_terms_mentioned_in_LF_region_namely_MOS_transistor_at_any_f_of_attached_C-V_curve_below
+(mos capacitor c-v curve)
